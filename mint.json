@@ -30,14 +30,13 @@
       "group": "Get Started",
       "pages": [
         "overview",
-        "quickstartgsheet",
-        "pricing"
+        "quickstartgsheet"
       ]
     },
     {
-      "group": "Products",
+      "group": "Pricing",
       "pages": [
-        "GPTPro Suite for Sheet"
+        "pricing"
       ]
     },
     {

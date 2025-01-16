@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "GPTPro Suite Documentation",
   "logo": {
     "dark": "https://firebasestorage.googleapis.com/v0/b/gptapp-a9865.firebasestorage.app/o/noBgColor.svg?alt=media&token=6ad2411c-3383-4f7b-ba83-78efa2077651",
     "light": "https://firebasestorage.googleapis.com/v0/b/gptapp-a9865.firebasestorage.app/o/noBgColor.svg?alt=media&token=6ad2411c-3383-4f7b-ba83-78efa2077651"
@@ -18,7 +18,7 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "help@gptprosuite.com"
+      "url": "mailto:help@gptprosuite.com"
     }
   ],
   "topbarCtaButton": {
@@ -36,13 +36,13 @@
     {
       "group": "Pricing",
       "pages": [
-        "pricing"
+        "Pricing/pricing"
       ]
     },
     {
       "group": "Resources",
       "pages": [
-        "Common issues"
+        "Resources/commonissues"
       ]
     }
   ]

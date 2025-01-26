@@ -2,8 +2,9 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "GPTPro Suite Documentation",
   "logo": {
-    "dark": "/images/noBgColor.png",
-    "light": "/images/noBgColor.png"
+    "dark": "/images/noBgColor.svg",
+    "light": "/images/noBgColor.svg",
+    "href": "https://gptprosuite.com/"
   },
   "favicon": "/images/symbol.svg",
   "colors": {
@@ -14,6 +15,10 @@
       "from": "#4059AD",
       "to": "#6F85D6"
     }
+  },
+  "modeToggle": {
+  "default": "light",
+  "isHidden": true
   },
   "topbarLinks": [
     {

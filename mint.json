@@ -5,7 +5,7 @@
     "dark": "https://firebasestorage.googleapis.com/v0/b/gptapp-a9865.firebasestorage.app/o/noBgColor.svg?alt=media&token=6ad2411c-3383-4f7b-ba83-78efa2077651",
     "light": "https://firebasestorage.googleapis.com/v0/b/gptapp-a9865.firebasestorage.app/o/noBgColor.svg?alt=media&token=6ad2411c-3383-4f7b-ba83-78efa2077651"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "https://firebasestorage.googleapis.com/v0/b/gptapp-a9865.firebasestorage.app/o/symbol.png?alt=media&token=c2dbcdf8-c97f-48b3-a791-2d915a2ff591",
   "colors": {
     "primary": "#4059AD",
     "light": "#6F85D6",

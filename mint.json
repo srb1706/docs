@@ -2,10 +2,10 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "GPTPro Suite Documentation",
   "logo": {
-    "dark": "images/noBgColor.png",
-    "light": "images/noBgColor.png"
+    "dark": "/images/noBgColor.png",
+    "light": "/images/noBgColor.png"
   },
-  "favicon": "images/symbol.svg",
+  "favicon": "/images/symbol.svg",
   "colors": {
     "primary": "#4059AD",
     "light": "#6F85D6",

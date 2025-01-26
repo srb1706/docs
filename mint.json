@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "GPTPro Suite Documentation",
   "logo": {
-    "dark": "https://firebasestorage.googleapis.com/v0/b/gptapp-a9865.firebasestorage.app/o/noBgColor.svg?alt=media&token=6ad2411c-3383-4f7b-ba83-78efa2077651",
-    "light": "https://firebasestorage.googleapis.com/v0/b/gptapp-a9865.firebasestorage.app/o/noBgColor.svg?alt=media&token=6ad2411c-3383-4f7b-ba83-78efa2077651"
+    "dark": "https://firebasestorage.googleapis.com/v0/b/gptapp-a9865.firebasestorage.app/o/noBgColor.png?alt=media&token=51077cca-2de7-42c5-b383-bb9edbaeefeb",
+    "light": "https://firebasestorage.googleapis.com/v0/b/gptapp-a9865.firebasestorage.app/o/noBgColor.png?alt=media&token=51077cca-2de7-42c5-b383-bb9edbaeefeb"
   },
   "favicon": "https://firebasestorage.googleapis.com/v0/b/gptapp-a9865.firebasestorage.app/o/symbol.svg?alt=media&token=4fd28cb0-e764-49df-adad-ed6e75791d80",
   "colors": {
